@@ -1,1 +1,1 @@
-i am a software engineer
+echo 'My first readme'
